@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <h1>publip</h1>
 </div>
 
